@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iSonik
+- 👋 Hi, I’m @Arthur
 - 👀 I’m interested in Fullstack (MERN) and Bioinformatics
 - 🌱 I’m currently learning Bioinformatics 
 - 💞️ I’m looking to collaborate on Bioinformatocs
